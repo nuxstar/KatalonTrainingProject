@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>orange HRM live login page</description>
+   <name>Login_Page_TC02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79124ae4-d9bc-43c6-a791-f704c8f86632</testCaseGuid>
+</TestCaseEntity>

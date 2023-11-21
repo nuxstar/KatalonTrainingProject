@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Page_TC01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe1e901c-1f0a-436f-a08f-be652e5db533</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>ad503ccb-d8c9-47c4-a9bb-67c3f1135d14</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>2c25c7dd-caed-4d47-8314-3ec43d8388b1</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

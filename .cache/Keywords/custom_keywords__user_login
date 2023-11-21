@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "BEF75C5A9150D2C0F27E5ABA045A4739",
+  "keywordClasses": [
+    {
+      "name": "custom_keywords.user_login",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
